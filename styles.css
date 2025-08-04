@@ -241,3 +241,14 @@ body {
     border-radius: 40px;
     cursor: pointer;
 }
+@media (max-width: 480px) {
+  .card {
+    font-size: 14px;
+  }
+
+  .card input {
+    width: 100%;
+  }
+}
+
+
